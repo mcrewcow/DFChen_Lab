@@ -1,5 +1,6 @@
-# Pan_et_al_DFChen_IGFPL1_paper
-#Dong Feng Chen lab collaboration projects
+# IGFBPL1 is a Master Driver of Microglia Homeostasis and Resolution of Inflammation that Limits Glaucomatous Neurodegeneration
+
+This repository has the information on the single-cell RNA-seq analysis described in the paper for IGFBPL1 WT/KO and glaucoma PBS/IGFBPL1 mouse microglia datasets.
 
 The analysis is separated into the following parts:
 1. Igfbpl1 WT/KO - glaucoma PBS/Igfbpl1 Seurat R processing - file:
@@ -12,6 +13,8 @@ GEO
 GEO
 GEO
 GEO
+
+The processed datasets are available at:
 
 If you have any questions regarding the data, analysis or further improvements, here are the contacts:
 dongfeng_chen@meei.harvard.edu - PI
