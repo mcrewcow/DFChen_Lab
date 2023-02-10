@@ -5,7 +5,7 @@ This repository has the information on the single-cell RNA-seq analysis describe
 The analysis is separated into the following parts:
 1. Igfbpl1 WT/KO - glaucoma PBS/Igfbpl1 Seurat R processing - file:
 2. ForceAtlas2 + scanpy processing (Jupyter Notebook) - file:
-3. RNA Velocity - bash preprocessing to .loom - file: fastq_to_loom_processing.sh
+3. RNA Velocity - bash preprocessing to .loom - file: [fastq_to_loom_processing.sh](https://github.com/mcrewcow/Pan_et_al_DFChen_IGFPL1_paper/blob/main/fastq_to_loom_processing.sh)
                 - scvelo utilization (Jupyter Notebook) - file:
                 
 The datasets are uploaded on GEO:
