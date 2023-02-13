@@ -26,5 +26,5 @@ numbers$Population <- factor(numbers$Population , levels = c('Resident','Prolife
 
 library(ggplot2)
 ggplot(numbers, aes(x=Dataset, y=Percentage, fill=Population))+
-    geom_bar(stat="identity", color="black", position = 'dodge') + scale_fill_manual(values = c("#DC143C","#8B008B", "#483D8B","#228B22")) + theme_bw()
+    geom_bar(stat="identity", color="black", position = 'dodge') + scale_fill_manual(values = c("#228B22", "#DC143C","#FFAA1D", "#00FFFF")) + theme_bw()
 
