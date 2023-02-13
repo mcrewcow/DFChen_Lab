@@ -2,6 +2,7 @@
 
 library(Seurat)
 
+#Export the expression data for RNA active assay of microgliaall dataset for Trem2 gene with stage conditiongs
 WT <- microgliaall[['RNA']]@data["Trem2",] * (microgliaall$stage == "WT")
 KO <- microgliaall[['RNA']]@data["Trem2",] * (microgliaall$stage == "KO")
 PBS <- microgliaall[['RNA']]@data["Trem2",] * (microgliaall$stage == "1168")
@@ -11,4 +12,4 @@ DefaultAssay(microgliaall) <- "NEW"
 
 DotPlot(microgliaall, features = c('WT', 'KO', 'PBS', 'IGFBPL1'), split.by = 'annotation', cols = c("#82b232","#FFB200", "#E23D28", "#B9D9EB"), dot.scale = 10)
 
-#Same for Tlr4
+#Same for Tlr4 and any other genes of interest
