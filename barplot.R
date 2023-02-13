@@ -25,6 +25,11 @@ numbers$Dataset <- factor(numbers$Dataset , levels = c('WT','IGFBPL1 KO','Glauco
 numbers$Population <- factor(numbers$Population , levels = c('Resident','Proliferative','IFN-response','Inflammatory'))
 
 library(ggplot2)
+library(ggpmisc)
 ggplot(numbers, aes(x=Dataset, y=Percentage, fill=Population))+
     geom_bar(stat="identity", color="black", position = 'dodge') + scale_fill_manual(values = c("#82b232", "#CB4154","#FFB200", "#c67aff")) + theme_bw()
+
+ggplot(numbers, aes(x=Dataset, y=Log, color=Population, fill = Population))+
+        geom_bar(stat="identity", color="black", position = 'dodge') + scale_fill_manual(values = c("#82b232", "#E23D28","#FFB200", "#B9D9EB")) + scale_y_logFC() 
++ theme_bw() + facet_wrap(~Population, scale = 'free', nrow = 1)
 
