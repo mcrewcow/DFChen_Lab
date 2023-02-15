@@ -3,12 +3,13 @@
 This repository has the information on the single-cell RNA-seq analysis described in the paper for IGFBPL1 WT/KO and glaucoma PBS/IGFBPL1 mouse microglia datasets.
 
 The analysis is separated into the following parts:
-1. Igfbpl1 WT/KO - glaucoma PBS/Igfbpl1 Seurat R processing - file:\
-2. ForceAtlas2 + scanpy processing (Jupyter Notebook) - file:\
-3. RNA Velocity - bash preprocessing to .loom - file: [fastq_to_loom_processing.sh](https://github.com/mcrewcow/Pan_et_al_DFChen_IGFPL1_paper/blob/main/fastq_to_loom_processing.sh)\
-                - scvelo utilization (Jupyter Notebook) - file:\
+1. Igfbpl1 WT/KO - glaucoma PBS/Igfbpl1 Seurat R processing - file:
+2. ForceAtlas2 + scanpy processing (Jupyter Notebook) - file:
+3. RNA Velocity - bash preprocessing to .loom - file: [fastq_to_loom_processing.sh](https://github.com/mcrewcow/Pan_et_al_DFChen_IGFPL1_paper/blob/main/fastq_to_loom_processing.sh)
+                - scvelo utilization (Jupyter Notebook) - file:
                 
-The datasets are uploaded on GEO:\
+The datasets are uploaded on GEO: <br />
+[WT/IGFBPL1](https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE176204) <br />
 
 
 The processed datasets are available at:
