@@ -8,7 +8,7 @@ The analysis is separated into the following parts:
 3. RNA Velocity - bash preprocessing to .loom - file: [fastq_to_loom_processing.sh](https://github.com/mcrewcow/Pan_et_al_DFChen_IGFPL1_paper/blob/main/fastq_to_loom_processing.sh) <br />
                 - scvelo utilization (Jupyter Notebook)
 
-Files: [Glaucoma datasets analysis] (https://github.com/mcrewcow/Pan_et_al_DFChen_IGFPL1_paper/blob/main/glaucoma.ipynb), 
+Files: [Glaucoma datasets analysis] (https://github.com/mcrewcow/Pan_et_al_DFChen_IGFPL1_paper/blob/main/glaucoma.ipynb), <br />
 4. Python to R data transformation
 Files: [Saving the object in Python](https://github.com/mcrewcow/Pan_et_al_DFChen_IGFPL1_paper/blob/main/h5ad_to_h5seurat_p1.py), [Building the Seurat object in R](https://github.com/mcrewcow/Pan_et_al_DFChen_IGFPL1_paper/blob/main/h5ad_to_h5seurat_p2.R)
                 
