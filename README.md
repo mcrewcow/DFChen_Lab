@@ -14,7 +14,7 @@ The datasets are uploaded on GEO: <br />
 
 The processed datasets are available at:
 
-If you have any questions regarding the data, analysis or further improvements, here are the contacts:
+If you have any questions regarding the data, analysis or further improvements, here are the contacts: <br />
 dongfeng_chen@meei.harvard.edu - PI\
 gahu@mit.edu - Bioinformatics, part 1 + data availability\
-ekriukov@meei.harvard.edu - Bioinformatics, part 2-3 + data availability\
+ekriukov@meei.harvard.edu - Bioinformatics, part 2-3 + data availability
