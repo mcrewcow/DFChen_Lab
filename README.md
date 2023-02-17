@@ -1,6 +1,8 @@
 # IGFBPL1 is a Master Driver of Microglia Homeostasis and Resolution of Inflammation that Limits Glaucomatous Neurodegeneration
 
 This repository has the information on the single-cell RNA-seq analysis described in the paper for IGFBPL1 WT/KO and glaucoma PBS/IGFBPL1 mouse microglia datasets.
+![GA1_Github](https://user-images.githubusercontent.com/77118598/219808488-bb277362-bc15-4820-84cb-9eb30d7e5972.jpg)
+
 
 The analysis is separated into the following parts:
 1. Igfbpl1 WT/KO - glaucoma PBS/Igfbpl1 Seurat R processing - basic Seurat pipeline, availabe upon request (gahu@mit.edu)
