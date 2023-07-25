@@ -22,4 +22,6 @@ The processed datasets are available upon request. <br />
 If you have any questions regarding the data, analysis or further improvements, here are the contacts: <br />
 dongfeng_chen@meei.harvard.edu - PI\
 gahu@mit.edu - Bioinformatics, part 1 + data availability\
-ekriukov@meei.harvard.edu - Bioinformatics, part 2-4 + data availability
+ekriukov@meei.harvard.edu - Bioinformatics, part 2-4 + data availability<br />
+<br />
+[Metrics](https://github.com/mcrewcow/mcrewcow/blob/main/metrics.repositoryIgfbpl1.svg)
