@@ -24,4 +24,4 @@ dongfeng_chen@meei.harvard.edu - PI\
 gahu@mit.edu - Bioinformatics, part 1 + data availability\
 ekriukov@meei.harvard.edu - Bioinformatics, part 2-4 + data availability<br />
 <br />
-[Metrics](https://github.com/mcrewcow/mcrewcow/blob/main/metrics.repositoryIgfbpl1.svg)
+![Metrics](https://github.com/mcrewcow/mcrewcow/blob/main/metrics.repositoryIgfbpl1.svg)
